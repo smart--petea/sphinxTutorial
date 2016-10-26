@@ -38,6 +38,8 @@ Using The TOCTree directive
 
     .. code-block:: none
 
+        **Table of Contents**
+
         .. toctree::
 
             Chapter1.rst
@@ -45,7 +47,16 @@ Using The TOCTree directive
             Chapter3.rst
 
 
-    Compile the project and stare at the result. :)
+    Compile the project and stare at the result. You should have obtained something like next table of contents
+
+    **Table of Contents**
+
+    .. toctree::
+
+        ch1.rst
+        ch2.rst
+        ch3.rst
+    
 
     .. note::
         
