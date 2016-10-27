@@ -5,3 +5,4 @@ Articles
         :maxdepth: 2
 
         toctree/index.rst
+        connectingcss
