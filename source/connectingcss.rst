@@ -17,7 +17,9 @@ The next line is of red color.
 
 This effect has been obtained by using two directives: `raw
 <http://docutils.sourceforge.net/docs/ref/rst/directives.html#raw-data-pass-through>`_ and `rst-class` or `class
-<http://docutils.sourceforge.net/docs/ref/rst/directives.html#class>`_. By `raw
+<http://docutils.sourceforge.net/docs/ref/rst/directives.html#class>`_. 
+
+By `raw
 <http://docutils.sourceforge.net/docs/ref/rst/directives.html#raw-data-pass-through>`_ directive we inject the css
 styles
 
