@@ -6,3 +6,4 @@ Articles
 
         toctree/index.rst
         connectingcss
+        glossary
